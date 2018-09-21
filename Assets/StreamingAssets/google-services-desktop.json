@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1013949299453",
+    "firebase_url": "https://new-project-80308.firebaseio.com",
+    "project_id": "new-project-80308",
+    "storage_bucket": "new-project-80308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013949299453:android:d28a320a2aa95426",
+        "android_client_info": {
+          "package_name": "xyz.Sariri.Sariri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013949299453-l226u8n7fgb631jauj8i6qv9bgs4pnlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTdWRKWju4VVcwOtYDKri4gVizcuTPdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
